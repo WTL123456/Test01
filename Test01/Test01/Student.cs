@@ -21,5 +21,10 @@ namespace Test01
         /// 年龄
         /// </summary>
         public int Age { get; set; }
+
+        /// <summary>
+        /// 性别
+        /// </summary>
+        public bool Sex { get; set; }
     }
 }
